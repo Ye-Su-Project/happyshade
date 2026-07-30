@@ -49,13 +49,15 @@
 
 ```
 [HOME] (GPS/목적지 입력)
-![메인 화면](images/main-screen.png)
   └──> [SEARCH] (전체화면 목적지 검색)
         └──> [LOADING] (OSRM 경로 분석 & 계산)
               ├──> [RESULT] (버스 비주얼 + 방향 뱃지 & 추천 문구)
-              ![결과 화면](images/result-screen.png)
               └──> [ERROR] (경로/위치 불러오기 실패 시 안내)
 ```
+<p align="center">
+  <img src="images/main-screen.png" width="260" alt="메인 화면" />
+  <img src="images/result-screen.png" width="260" alt="결과 화면" />
+</p>
 
 ---
 
